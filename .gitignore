@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+*swp
+src/app/app.js
+src/app/app.js.map
